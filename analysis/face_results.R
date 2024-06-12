@@ -1,5 +1,5 @@
 library(scales)
-setwd("~/Desktop/PhD/_Dissertation/Gibbs_RE/results")
+setwd("~/set/your/directory")
 
 # LOAD RESULTS ---------------------------------------------------------------
 
