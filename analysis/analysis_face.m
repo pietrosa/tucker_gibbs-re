@@ -37,4 +37,4 @@ for ir = 1:length(R_list)
     end
 end
 
-writetable([titles_all;res_all],"face_chains.csv");
+writematrix([titles_all;res_all],"face_chains.csv");
