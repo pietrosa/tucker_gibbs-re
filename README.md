@@ -46,7 +46,7 @@ Running `analysis/face_reconstruction.m` will fit new models and generate (rando
 
 ![untitled](https://github.com/pietrosa/tucker_gibbs-re/assets/40504922/59bcfd55-14c4-4fb1-8cce-a1bddfae01b6)
 
-For quantitative results, see `analysis/face_results.R`, which uses the results in `analysis/faces_chains.csv`. For use with other results, the "Load Results" block should be modified. The code yields the following chain plot, convergence checks (i.e., that $\hat R\in [0.9934088, 1.0042507]$ and $n_\text{eff}\in[47.12596,133.33333]$), the following relative error/time plot, and the below tabular summary.
+For quantitative results, see `analysis/face_results.R`, which uses the results in `analysis/faces_chains.csv`. For use with other results, the "Load Results" block should be modified. The code yields the following chain plot, convergence checks (i.e., that $\hat R\in [0.9934088, 1.0042507]$ and $n_\text{eff} \in [47.12596,133.33333]$), the following relative error/time plot, and the below tabular summary.
 
 ![Rplot](https://github.com/pietrosa/tucker_gibbs-re/assets/40504922/ef04a74c-5ce5-443f-a5ea-b0c8a5e0e30b)
 
