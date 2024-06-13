@@ -84,3 +84,7 @@ For quantitative results, see `analysis/face_results.R`, which uses the results 
 |R30|DR.4|tau2 |0.996114471399055|133.333333333333|296.9 (93.8) |0.83 (0.03)|
 |R30|DR.2|err  |1.00047286113395 |121.180822207341|1073.5 (84.0)|0.78 (0.01)|
 |R30|DR.2|tau2 |0.996184071293635|126.229125232   |1073.5 (84.0)|0.78 (0.01)|
+
+## Stan code
+
+See `stan/` for the Stan/rstan code mentioned in the main text for sampling from the matrix von Mises--Fisher distribution.
